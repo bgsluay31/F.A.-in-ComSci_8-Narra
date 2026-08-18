@@ -10,12 +10,12 @@
 3. Input the requested coordinate values (`x1`, `y1`, `x2`, `y2`).
 
 ## Inputs Needed
- ,,,      
-*Enter x1: 2
-*Enter y1: 3
-*Enter x2: 7
-*Enter y2: 8
-,,,
+```text
+Enter x1: 2
+Enter y1: 3
+Enter x2: 7
+Enter y2: 8
+```
 
 ## Sample Output
  Supposed that when we use the Euclidean Distance formula and we put the values x1=2, y1=3, x2=7, y2=8. The distance between the two points is 7.07.
