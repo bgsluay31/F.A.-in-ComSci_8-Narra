@@ -28,7 +28,7 @@ Enter y2: 8
 The distance between the two points is: 7.07
 
 
- ## Author
+ # Author
   The author of this repository and python is Blake Griffin S. Luay from 8- Narra.
- 
+
      
