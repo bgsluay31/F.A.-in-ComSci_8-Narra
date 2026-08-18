@@ -17,7 +17,8 @@ Enter x2: 7
 Enter y2: 8
 ```
 
-## Sample Outputn  Supposed that when we use the Euclidean Distance formula and we put the values x1=2, y1=3, x2=7, y2=8, also we need to round it to two decimal places. The distance between the two points is 7.07.
+## Sample Output  
+ Supposed that when we use the Euclidean Distance formula and we put the values x1=2, y1=3, x2=7, y2=8, also we need to round it to two decimal places. The distance between the two points is 7.07.
 
 ```text
 Enter x1: 2
