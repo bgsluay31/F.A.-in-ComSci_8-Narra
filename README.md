@@ -1,4 +1,4 @@
-# SamplePythonActivities
+# QUARTER 1 FORMATIVE ASSESSMENT
 
 ## This is for Computer Science 2 \
 ## How to run the program
