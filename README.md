@@ -5,7 +5,7 @@
 
 ## How to run the program
 
-     To run the program we need to first analyze the program and check all the necessary inputs needed
+     To run the program we need to first analyze the program and check all the necessary inputs needed.
 
 ## Inputs Needed
         
