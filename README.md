@@ -8,10 +8,10 @@
 
 ## Inputs Needed
         
-Enter x1: 2       
-Enter y1: 3
-Enter x2: 7
-Enter y2: 8
+ Enter x1: 2       
+ Enter y1: 3
+ Enter x2: 7
+ Enter y2: 8
 
 
 ## Sample Output      
