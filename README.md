@@ -1,7 +1,7 @@
 # QUARTER 1 FORMATIVE ASSESSMENT
 
 ## Description
- This program uses math library to calculate the **distance between two points**.
+ This Python program calculates the straight-line **distance between two points** using the **2D Euclidean space distance formula**. It imports Python's built-in math library to utilize "math.pow()" for squaring coordinate differences and "math.sqrt()"  for finding the square root, and the output of the calculated distance is rounded to two decimal places.
 
 ## How to run the program
 
