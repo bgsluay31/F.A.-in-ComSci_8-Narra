@@ -1,7 +1,7 @@
 # QUARTER 1 FORMATIVE ASSESSMENT
 
 ## Description
- This program uses math library to calculate the **distance between two point**.
+ This program uses math library to calculate the **distance between two points**.
 
 ## How to run the program
 
